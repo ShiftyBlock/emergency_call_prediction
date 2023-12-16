@@ -1,0 +1,6 @@
+*.csv
+neural_prophet/
+*.jupyter_ystore.db
+venv/
+lightning_logs/
+*.ipynb_checkpoints/
